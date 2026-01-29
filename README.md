@@ -53,49 +53,7 @@ This project was developed as part of a **Computer Networks course** to bridge t
 - 👥 Participant Management
 - 🛠️ Admin / Host Controls
 
----
 
-## 🖼️ Application Screenshots
-
-> 📌 **Note:** Place all screenshots inside a `screenshots/` folder in the repository.
-
-### 🔑 Authentication & Meeting Setup
-![Login Screen](screenshots/login.png)
-![Create Meeting](screenshots/create_meeting.png)
-
----
-
-### 🎥 Video Conferencing
-![Video Grid](screenshots/video_grid.png)
-![Multiple Participants](screenshots/multi_user_video.png)
-
----
-
-### 🎙️ Audio & Screen Sharing
-![Audio Input](screenshots/audio_input.png)
-![Screen Sharing](screenshots/screen_sharing.png)
-
----
-
-### 📁 File Sharing
-![Send File](screenshots/file_send.png)
-![File Progress](screenshots/file_progress.png)
-![File Received](screenshots/file_received.png)
-
----
-
-### 💬 Messaging & Participants
-![Chat Window](screenshots/chat_window.png)
-![Participants View](screenshots/participants_view.png)
-
----
-
-### 🛠️ Admin Controls & Extra Features
-![Admin Controls](screenshots/admin_controls.png)
-![Hand Raise](screenshots/hand_raise.png)
-![Reactions](screenshots/reactions.png)
-
----
 
 ## ⚙️ How to Run the Project
 
