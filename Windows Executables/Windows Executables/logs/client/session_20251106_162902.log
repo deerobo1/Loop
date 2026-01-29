@@ -1,0 +1,15 @@
+[2025-11-06 16:29:02] [INFO] [CLIENT] ================================================================================
+[2025-11-06 16:29:02] [INFO] [CLIENT] Client Session Started
+[2025-11-06 16:29:02] [INFO] [CLIENT] Date: Thursday, November 06, 2025
+[2025-11-06 16:29:02] [INFO] [CLIENT] Time: 04:29:02 PM
+[2025-11-06 16:29:02] [INFO] [CLIENT] Log File: logs\client\session_20251106_162902.log
+[2025-11-06 16:29:02] [INFO] [CLIENT] ================================================================================
+[2025-11-06 16:30:07] [INFO] [CLIENT] Server settings updated: 10.184.79.39:5001
+[2025-11-06 16:32:28] [INFO] [CLIENT] Sending chat message: hii
+[2025-11-06 16:32:53] [INFO] [CLIENT] Sending chat message: ji
+[2025-11-06 16:33:34] [INFO] [CLIENT] Requesting file: Screenshot 2022-11-26 164634.png -> C:\Users\deety\Downloads\Screenshot 2022-11-26 164634.png
+[2025-11-06 16:34:39] [INFO] [CLIENT] Disconnecting from server...
+[2025-11-06 16:34:39] [INFO] [CLIENT] ================================================================================
+[2025-11-06 16:34:39] [INFO] [CLIENT] Client disconnected successfully
+[2025-11-06 16:34:39] [INFO] [CLIENT] Session ended
+[2025-11-06 16:34:39] [INFO] [CLIENT] ================================================================================
